@@ -1,0 +1,72 @@
+h1{
+    text-align: center;
+    font-size: 60px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.hr{
+    color: rgb(50, 10, 212);
+}
+body{
+    background-color: rgb(231, 235, 237);
+    margin: 10px;
+    padding: 10px;
+}
+
+a 
+{
+    position: absolute;
+  
+    border-radius: 6px;
+    font-size: 40px;
+   
+    color: rgb(6, 6, 6);
+
+
+}
+
+
+.row
+{
+  display: flex;  
+  text-align: center;
+  margin: 1in;
+  
+
+}
+
+img{
+    border-radius: 6px;
+}
+ .col1 a
+{
+    font-size: 50px;
+    text-align: center;
+    margin-left: 3in;
+    padding: 0px;
+    
+}
+.col2 a
+{
+    font-size: 50px;
+    text-align: center;
+    margin:1in;
+    margin-left: 3in;
+    
+}
+.col3 a
+{
+    font-size: 50px;
+    text-align: center;
+    margin: 2in;
+    margin-left: 3in;
+    padding: 5px;
+    
+}
+.col1 img
+
+{
+    margin:  1px 2px;
+    padding:0 2px 0;
+}
